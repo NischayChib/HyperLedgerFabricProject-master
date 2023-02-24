@@ -60,8 +60,11 @@ change the backend url in the env file as per your server config
 npm i
 npm start
 ```
-## Author
-- [@Tarandeep100](https://github.com/Tarandeep100/)
+## Team
+- NischayChib
+- VishalPawar
+- HarmanSingh
+- DhruvGupta
 
 ## Architecture
 
